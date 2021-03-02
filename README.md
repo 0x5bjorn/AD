@@ -1,2 +1,2 @@
 # AD
-Algorithm Design course
+AD
